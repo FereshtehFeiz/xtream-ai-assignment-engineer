@@ -82,4 +82,4 @@ So, ready to add some sparkle to this challenge? Let's make these diamonds shine
 ---
 
 ## How to run
-Please fill this section as part of the assignment.
+Challenge1: Check the main.ipynb notebook
