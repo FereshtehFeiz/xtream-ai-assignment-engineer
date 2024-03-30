@@ -82,4 +82,7 @@ So, ready to add some sparkle to this challenge? Let's make these diamonds shine
 ---
 
 ## How to run
-Challenge1: Check the main.ipynb notebook
+Challenge 1: Check the main.ipynb notebook
+Challenge 2: Check pipeline.py (unfinished) -> Mlflow and Apach airflow
+Challenge 3: Check app.py (unfinished) -> flask
+Challenge 4: Using AWS 
