@@ -88,4 +88,4 @@ Challenge 2: Check pipeline.py (unfinished) -> Mlflow and Apach airflow
 
 Challenge 3: Check app.py (unfinished) -> flask
 
-Challenge 4: Using AWS 
+Challenge 4: AWS and Google
