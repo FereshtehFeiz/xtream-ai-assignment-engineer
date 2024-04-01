@@ -1,4 +1,5 @@
 # AWS
+![alt text](https://github.com/FereshtehFeiz/xtream-ai-assignment-engineer/blob/main/static/images/CloudArchitecture.jpeg)
 
 ## 1. Data Storage: 
 Store your datasets in an AWS storage service like Amazon S3. This allows easy access to your data for training and prediction.
@@ -10,7 +11,6 @@ Set up an AWS Lambda function to trigger the training pipeline. Lambda can be sc
 Use AWS Batch for scalable and efficient batch processing of your training data. You can containerize your training code (e.g., using Docker) and run it as batch jobs on AWS Batch.
 ### Amazon S3: 
 Store your trained model artifacts back to S3 after training for future use.
-
 
 ## 3. Machine Learning Model Hosting:
 ### Amazon SageMaker: 
