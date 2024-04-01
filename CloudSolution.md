@@ -1,6 +1,7 @@
-# AWS
+# AWS and Google cloud solutions
 ![alt text](https://github.com/FereshtehFeiz/xtream-ai-assignment-engineer/blob/main/static/images/CloudArchitecture.jpeg)
 
+# AWS
 ## 1. Data Storage: 
 Store your datasets in an AWS storage service like Amazon S3. This allows easy access to your data for training and prediction.
 
