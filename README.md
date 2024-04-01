@@ -82,10 +82,10 @@ So, ready to add some sparkle to this challenge? Let's make these diamonds shine
 ---
 
 ## How to run
-Challenge 1: Check the main.ipynb notebook -> Done
+Challenge 1: Check the main.ipynb notebook -> [click here](https://github.com/FereshtehFeiz/xtream-ai-assignment-engineer/blob/main/main.ipynb)
 
 Challenge 2: Check pipeline.py -> unfinished -> Mlflow and Apach airflow
 
 Challenge 3: Check app.py -> unfinished -> flask
 
-Challenge 4: AWS and Google -> Done
+Challenge 4: AWS and Google -> [click here](https://github.com/FereshtehFeiz/xtream-ai-assignment-engineer/blob/main/CloudSolution.md)
