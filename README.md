@@ -88,4 +88,4 @@ Challenge 2: Check pipeline.py -> unfinished: [click here](https://github.com/Fe
 
 Challenge 3: Check app.py -> unfinished: [click here](https://github.com/FereshtehFeiz/xtream-ai-assignment-engineer/blob/main/app.py)
 
-Challenge 4: AWS and Google -> [click here](https://github.com/FereshtehFeiz/xtream-ai-assignment-engineer/blob/main/CloudSolution.md)
+Challenge 4: AWS and Google -> Done: [click here](https://github.com/FereshtehFeiz/xtream-ai-assignment-engineer/blob/main/CloudSolution.md)
