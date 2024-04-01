@@ -35,30 +35,43 @@ Monitor your Lambda functions, SageMaker endpoints, API Gateway, and other AWS r
 Enable CloudTrail to log API activity in your AWS account, providing visibility into actions taken by users and services.
 
 ## 6. Security:
-AWS IAM: Configure fine-grained permissions using IAM roles and policies to ensure that each component of your architecture has the least privilege necessary.
-Amazon VPC: Use Virtual Private Cloud (VPC) to isolate your resources and control network access to your AWS infrastructure.
+### AWS IAM: 
+Configure fine-grained permissions using IAM roles and policies to ensure that each component of your architecture has the least privilege necessary.
+### Amazon VPC: 
+Use Virtual Private Cloud (VPC) to isolate your resources and control network access to your AWS infrastructure.
 
 
 # GCP
 ## 1. Data Storage:
-Cloud Storage: Store your datasets in Google Cloud Storage. It provides a scalable, durable, and highly available object storage service.
+### Cloud Storage: 
+Store your datasets in Google Cloud Storage. It provides a scalable, durable, and highly available object storage service.
 
 ## 2. Training Pipeline:
-Cloud Functions: Use Cloud Functions to trigger the training pipeline at regular intervals.
-AI Platform (formerly known as Google Cloud ML Engine): Utilize AI Platform for training your machine learning model at scale. You can package your training code into a Docker container and submit it as a training job on AI Platform.
+### Cloud Functions: 
+Use Cloud Functions to trigger the training pipeline at regular intervals.
+### AI Platform (formerly known as Google Cloud ML Engine): 
+Utilize AI Platform for training your machine learning model at scale. You can package your training code into a Docker container and submit it as a training job on AI Platform.
 
 ## 3. Machine Learning Model Hosting:
-AI Platform (Prediction): Deploy your trained model on AI Platform for online prediction. AI Platform Prediction provides a serverless, managed service for hosting ML models.
+### AI Platform (Prediction): 
+Deploy your trained model on AI Platform for online prediction. AI Platform Prediction provides a serverless, managed service for hosting ML models.
 
 ## 4. Web Application:
-App Engine: Deploy your web application on Google App Engine. It automatically handles infrastructure management, scaling, and load balancing.
-Cloud Functions: Use Cloud Functions for serverless backend logic in your web application.
-Cloud Firestore: Store and sync data for your web application in Cloud Firestore, a NoSQL document database.
+### App Engine: 
+Deploy your web application on Google App Engine. It automatically handles infrastructure management, scaling, and load balancing.
+### Cloud Functions: 
+Use Cloud Functions for serverless backend logic in your web application.
+### Cloud Firestore: 
+Store and sync data for your web application in Cloud Firestore, a NoSQL document database.
 
 ## 5. Monitoring and Logging:
-Cloud Monitoring: Monitor your Cloud Functions, AI Platform models, App Engine, and other GCP resources using Cloud Monitoring.
-Cloud Logging: Collect and analyze logs from your GCP services using Cloud Logging.
+### Cloud Monitoring: 
+Monitor your Cloud Functions, AI Platform models, App Engine, and other GCP resources using Cloud Monitoring.
+### Cloud Logging: 
+Collect and analyze logs from your GCP services using Cloud Logging.
 
 ## 6. Security:
-Cloud IAM: Configure IAM roles and permissions to control access to your GCP resources.
-VPC Service Controls: Use VPC Service Controls to define security perimeters around Google Cloud resources.
+### Cloud IAM: 
+Configure IAM roles and permissions to control access to your GCP resources.
+### VPC Service Controls: 
+Use VPC Service Controls to define security perimeters around Google Cloud resources.
